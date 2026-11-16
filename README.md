@@ -36,7 +36,7 @@ gradle :video-api:test :video-android:assembleDebug :video-android:testDebugUnit
 
 The Android backend pins `org.videolan.android:libvlc-all:3.7.7` from Maven Central.
 No AAR or native binary is committed here. See [upstream/source-build details](docs/libvlc.md).
-Original-code licensing remains pending owner selection; see LICENSE.md.
+Original code is licensed under MIT; libVLC retains its LGPL terms. See LICENSE.md.
 
 ## API and ownership
 
