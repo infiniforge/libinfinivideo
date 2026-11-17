@@ -47,7 +47,7 @@ tests invoke actual services/parsers rather than scripted success responses.
 
 ## New format modules
 
-New video handlers must use bounded signature or parser-backed content validation, then return real stream metadata when the backend exposes it. Identity detection must remain available when an optional playback backend is missing. Follow the shared [Stream conformance rule](../libinfinistream/CAPABILITIES.md#format-module-validation-and-metadata-requirements).
+New video handlers must use bounded signature or parser-backed content validation, then return real stream metadata when the backend exposes it. Identity detection must remain available when an optional playback backend is missing. Follow the shared [Stream conformance rule](https://github.com/infiniforge/libinfinistream/blob/main/CAPABILITIES.md#format-module-validation-and-metadata-requirements).
 
 ## Host audit record
 
