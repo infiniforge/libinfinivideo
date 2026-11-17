@@ -1,6 +1,6 @@
 {
   "libinfinistream": {
-    "url": "https://github.com/gretchycat/libinfinistream.git",
+    "url": "https://github.com/infiniforge/libinfinistream.git",
     "commit": "e86167f2fd0c2c19d24140f05478099fdb1a693b"
   },
   "libvlc": {
